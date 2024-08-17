@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NadyaS
-- 👀 I’m interested in frontend even though I started it only last year by joining SheCode workshops, product design using Figma
+- 👀 I’m interested in frontend even though I started it only last year by joining SheCode workshops. Then self tought product design using Figma
 - 🌱 I’m currently learning about generative AI, and animation, and would love your input here and recommendation 
 - 💞️ I’m looking to collaborate on frontend.
 - 📫 How to reach me: nscoding88@gmail.com
